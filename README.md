@@ -1,18 +1,18 @@
 # ComputerSystemSecurity
 This repository contains three Jupyter Notebook files:
 
-## [LAB5-Diffie-Hellman.ipynb](./LAB5-Diffie-Hellman%20.ipynb)
+#### [LAB5-Diffie-Hellman.ipynb](./LAB5-Diffie-Hellman%20.ipynb)
 - Implements the Diffie-Hellman key exchange algorithm, including functions for generating public and secret keys, and checking for primitive roots.
-## [Lab3-Caesar cipher.ipynb](./Lab3-Caesar%20cipher.ipynb)
+#### [Lab3-Caesar cipher.ipynb](./Lab3-Caesar%20cipher.ipynb)
 - Implements a custom encryption algorithm based on the Caesar cipher, allowing encryption and decryption of text messages with user-defined shift values.
-## [Lab4-Hill cipher.ipynb](./Lab4-%20Hill%20cipher.ipynb)
+#### [Lab4-Hill cipher.ipynb](./Lab4-%20Hill%20cipher.ipynb)
 
 
 - Implements the Hill cipher encryption and decryption algorithm, including functions for matrix manipulation and key validation.
-
+---
 <br/> 
 
-# LAB5-Diffie-Hellman
+#  [LAB5-Diffie-Hellman](./LAB5-Diffie-Hellman%20.ipynb)
 
 This Jupyter Notebook contains Python code for implementing the Diffie-Hellman key exchange algorithm. 
 
@@ -41,7 +41,8 @@ To use this notebook, simply execute the cells in order. The main program will p
 <br/> 
 
 
-# Lab3-Caesar Cipher
+# [Lab3-Caesar Cipher ](./Lab3-Caesar%20cipher.ipynb)
+
 
 This Jupyter Notebook contains Python code for implementing the Caesar cipher encryption algorithm.
 
@@ -67,7 +68,8 @@ To use this notebook, simply execute the cells in order. The `testCustomEncrypt`
 <br/> 
 
 
-# Lab4 - Hill Cipher
+# [Lab4 - Hill Cipher](./Lab4-%20Hill%20cipher.ipynb)
+
 
 This Jupyter Notebook contains Python code for implementing the Hill cipher encryption and decryption algorithm.
 
