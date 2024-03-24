@@ -1,11 +1,13 @@
 # ComputerSystemSecurity
 This repository contains three Jupyter Notebook files:
 
-1. **LAB5-Diffie-Hellman.ipynb**:
+## [LAB5-Diffie-Hellman.ipynb](./LAB5-Diffie-Hellman%20.ipynb)
 - Implements the Diffie-Hellman key exchange algorithm, including functions for generating public and secret keys, and checking for primitive roots.
-3. **Lab3-Caesar cipher.ipynb**:
+## [Lab3-Caesar cipher.ipynb](./Lab3-Caesar%20cipher.ipynb)
 - Implements a custom encryption algorithm based on the Caesar cipher, allowing encryption and decryption of text messages with user-defined shift values.
-4. **Lab4-Hill cipher.ipynb**:
+## [Lab4-Hill cipher.ipynb](./Lab4-%20Hill%20cipher.ipynb)
+
+
 - Implements the Hill cipher encryption and decryption algorithm, including functions for matrix manipulation and key validation.
 
 <br/> 
